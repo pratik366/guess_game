@@ -1,4 +1,7 @@
 # Guessing game
+This is my first project 
+
+
 use rand::seq::SliceRandom;
 use std::io;
 mod guess_num;
